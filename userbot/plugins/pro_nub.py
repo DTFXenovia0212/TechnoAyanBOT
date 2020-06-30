@@ -33,15 +33,15 @@ async def _(event):
     await event.edit("You Noob")
 
     animation_chars = [
-            "EvErYbOdY",
-            "iZ",
-            "BiGGeSt",
-            "NoOoB" ,
-            "uNtiL",
-            "YoU",
-            "aRriVe",
+            "SeMUa oRaaNG",
+            "JADI",
+            "GOBLOK",
+            "SeMuA" ,
+            "SaMPeI",
+            "Lo",
+            "DAtENG",
             "😈",
-            "EvErYbOdY iZ BiGGeSt NoOoB uNtiL YoU aRriVe 😈"
+            "SeMUa oRaaNG JADI GOBLOK SeMuA SaMPeI Lo DAtENG 😈"
         ]
 
     for i in animation_ttl:
@@ -67,16 +67,17 @@ async def _(event):
     await event.edit("Me Noob")
 
     animation_chars = [
-            "EvErYbOdY",
-            "iZ",
-            "BiGGeSt",
-            "NoOoB" ,
-            "uNtiL",
-            "i",
-            "aRriVe",
+            "SeMUa oRaaNG",
+            "JADI",
+            "GOBLOK",
+            "SeMuA" ,
+            "SaMPeI",
+            "Gw",
+            "DAtENG",
             "😈",
-            "EvErYbOdY iZ BiGGeSt NoOoB uNtiL i aRriVe 😈"
+            "SeMUa oRaaNG JADI GOBLOK SeMuA SaMPeI Gw DAtENG 😈"
         ]
+
 
     for i in animation_ttl:
 
@@ -100,15 +101,17 @@ async def _(event):
     await event.edit("You Pro")
 
     animation_chars = [
-            "EvErYbOdY",
-            "iZ",
-            "PeRu" ,
-            "uNtiL",
-            "YoU",
-            "aRriVe",
+            "SeMUa oRaaNG",
+            "JADI",
+            "PRO",
+            "SeMuA" ,
+            "SaMPeI",
+            "Lo",
+            "DAtENG",
             "😈",
-            "EvErYbOdY iZ PeRu uNtiL YoU aRriVe 😈"
+            "SeMUa oRaaNG JADI GOBLOK SeMuA SaMPeI Lo DAtENG 😈"
         ]
+    
 
     for i in animation_ttl:
 
@@ -132,15 +135,18 @@ async def _(event):
     await event.edit("Me Pro")
 
     animation_chars = [
-            "EvErYbOdY",
-            "iZ",
-            "PeRu" ,
-            "uNtiL",
-            "i",
-            "aRriVe",
+            "SeMUa oRaaNG",
+            "JADI",
+            "PRO",
+            "SeMuA" ,
+            "SaMPeI",
+            "GW",
+            "DAtENG",
             "😈",
-            "EvErYbOdY iZ PeRu uNtiL i aRriVe 😈"
+            "SeMUa oRaaNG JADI GOBLOK SeMuA SaMPeI GW DAtENG 😈"
         ]
+    
+
 
     for i in animation_ttl:
 
